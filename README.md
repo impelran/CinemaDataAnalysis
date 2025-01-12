@@ -49,3 +49,7 @@ python3 .\Exercise<exercise's number>
 ```bash
 le nombre de fauteuils apparaît comme le facteur le plus corrélé au nombre d'entrées annuelles car la courbe représentant cette relation est significativement plus marquée que celle associée au nombre d'écrans.
 ```
+• Exercise 4:
+```bash
+Après l'execution du code, un nouveau fichier sera créé (cinemas_predictions.csv).
+```
